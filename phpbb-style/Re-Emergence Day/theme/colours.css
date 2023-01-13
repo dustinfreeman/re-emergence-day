@@ -4,7 +4,7 @@ Colours and backgrounds for common.css
 -------------------------------------------------------------- */
 
 html, body {
-	color: #46260c;
+	color: #96653e;
 	background-color: #d8c9bd;
 }
 
@@ -81,7 +81,7 @@ a:hover { color: #0055bb; }
 /* Round cornered boxes and backgrounds
 ---------------------------------------- */
 .wrap {
-	background-color: #46260c;
+	background-color: #96653e;
 	border-color: #ee66aa;
 }
 
