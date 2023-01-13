@@ -1,0 +1,122 @@
+@font-face {
+  font-family: 'FiolexGirls';
+  src: url('fonts/FiolexGirls-Regular.eot?#iefix') format('embedded-opentype'),  url('fonts/FiolexGirls-Regular.woff') format('woff'), url('fonts/FiolexGirls-Regular.ttf')  format('truetype'), url('fonts/FiolexGirls-Regular.svg#FiolexGirls-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.pv-sitename-link, .pv-sitename-link:hover {
+	color: #550022;
+	text-decoration: none;
+}
+
+.site-description h1 {
+	margin-top: 0;
+}
+
+.navbar a {
+	color: #550022;
+}
+
+.linklist i {
+	color: #ffffff;
+	text-shadow: 0 0 3px #b30047;
+}
+
+.dropdown i {
+	text-shadow: none;
+	color: inherit;
+}
+
+.dropdown-extended .header a {
+	color: #ffffff;
+}
+
+.action-bar a {
+	color: #550022;
+}
+
+h3 a, h3 a:hover {
+	color: #d55b7d;
+}
+
+a.pv-button, a.pv-button:hover, a.pv-button:focus {
+	font-family: fiolexgirls, "Open Sans", "Droid Sans", Verdana, Arial, Helvetica;
+	font-size: 2.7em;
+	font-weight: normal;
+	text-transform: lowercase;
+	color: #d55b7d;
+	background: transparent;
+	border-radius: 0;
+	border: 1px solid #d55b7d;
+	border-image: linear-gradient(135deg, rgba(213, 91, 125, 0), rgba(213, 91, 125, 1), rgba(213, 91, 125, 0)) 1;
+	box-shadow: none;
+	text-shadow: none;
+	padding: 0 4px 0 8px;
+}
+
+a.pv-button::first-letter {
+	text-transform: uppercase;
+}
+
+a.pv-button .icon {
+	display: none;
+}
+
+a.pv-button:hover, a.pv-button:focus {
+	color: #ffffff;
+}
+
+.post-buttons .button {
+	background: transparent;
+	border-radius: 0;
+	border: 1px solid #d55b7d;
+	border-image: linear-gradient(135deg, rgba(213, 91, 125, 0), rgba(213, 91, 125, 1), rgba(213, 91, 125, 0)) 1;
+	box-shadow: none;
+	text-shadow: none;
+}
+
+.post-buttons .button .icon {
+	color: #d55b7d;
+}
+
+.post-buttons .button:hover .icon {
+	color: #ffffff;
+}
+
+.action-bar.bar-top {
+	margin-bottom: 10px;
+}
+
+.action-bar.bar-bottom {
+	margin-top: 10px;
+}
+
+.rules a.postlink {
+	color: #cc6600;
+}
+
+.rules a.postlink:hover {
+	font-style: italic;
+	background: none;
+}
+
+.top .icon {
+	color: #ee66aa;
+}
+
+.alert_close {
+	color: #ee67ab;
+}
+
+.alert_close:hover {
+	color: #f4aaf4;
+}
+
+@media (max-width: 744px) {
+	.site_logo {
+		background-image: url(images/site_logo_small.png);
+		width: 600px;
+		height: 159px;
+	}
+}
