@@ -729,19 +729,19 @@ Colours and backgrounds for buttons.css
 
 .topic_moved						{ background-image: url("./images/topic_moved.png"); }
 .pm_read,
-.topic_read							{ background-image: url("./images/topic_read.png"); }
-.topic_read_mine					{ background-image: url("./images/topic_read_mine.png"); }
-.topic_read_hot						{ background-image: url("./images/topic_read_hot.png"); }
-.topic_read_hot_mine				{ background-image: url("./images/topic_read_hot_mine.png"); }
-.topic_read_locked					{ background-image: url("./images/topic_read_locked.png"); }
-.topic_read_locked_mine				{ background-image: url("./images/topic_read_locked_mine.png"); }
+.topic_read							{ background-image: url("./images/forum_read.png"); }
+.topic_read_mine					{ background-image: url("./images/forum_read.png"); }
+.topic_read_hot						{ background-image: url("./images/forum_read.png"); }
+.topic_read_hot_mine				{ background-image: url("./images/forum_read.png"); }
+.topic_read_locked					{ background-image: url("./images/forum_read_locked.png"); }
+.topic_read_locked_mine				{ background-image: url("./images/forum_read_locked.png"); }
 .pm_unread,
-.topic_unread						{ background-image: url("./images/topic_unread.png"); }
-.topic_unread_mine					{ background-image: url("./images/topic_unread_mine.png"); }
-.topic_unread_hot					{ background-image: url("./images/topic_unread_hot.png"); }
-.topic_unread_hot_mine				{ background-image: url("./images/topic_unread_hot_mine.png"); }
-.topic_unread_locked				{ background-image: url("./images/topic_unread_locked.png"); }
-.topic_unread_locked_mine			{ background-image: url("./images/topic_unread_locked_mine.png"); }
+.topic_unread						{ background-image: url("./images/forum_unread.png"); }
+.topic_unread_mine					{ background-image: url("./images/forum_unread.png"); }
+.topic_unread_hot					{ background-image: url("./images/forum_unread.png"); }
+.topic_unread_hot_mine				{ background-image: url("./images/forum_unread.png"); }
+.topic_unread_locked				{ background-image: url("./images/forum_read_locked.png"); }
+.topic_unread_locked_mine			{ background-image: url("./images/forum_read_locked.png"); }
 
 
 /*
